@@ -38,7 +38,7 @@ public class TestArrayList {
     }
     private static void displayList(List<String> list) {
       for(String e:list) {
-    	  System.out.println("-"+e);
+    	  System.out.println("--"+e);
       }
     	}
 
